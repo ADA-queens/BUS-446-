@@ -1,6 +1,6 @@
 Question 1: What team had the most concussed players between the seasons 2012-2014?  
 
-<img src="Screenshot (51).png"/>
+<img src="images/Screenshot (51).png"/>
 
 Question 2: Are concussions more likely to happen earlier or later in the season? 
 
