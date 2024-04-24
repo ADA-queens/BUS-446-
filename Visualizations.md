@@ -4,6 +4,12 @@ Question 1: What team had the most concussed players between the seasons 2012-20
 
 Question 2: Are concussions more likely to happen earlier or later in the season? 
 
-Question 3: Are players likely to get concussed again after they have had a concussion previously? 
+<img src="images/week.png"/>
 
-Question 4: Are certain positions more susceptible to concussions?
+Question 3: Is the winning or the loosing team more likely to have concussed players? 
+
+<img src="images/winning.png"/> 
+
+Question 4: Are certain positions more susceptible to concussions? 
+
+<img src="images/position.png"/>
