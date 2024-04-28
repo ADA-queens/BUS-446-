@@ -6,15 +6,20 @@ For our methodology, we collected our data set from Kaggle, a website that provi
 
 Key Findings: 
 
-What team has most concussed players?: The Browns had the highest number of concussions 2012-2014. The Bills had the lowest number of concussions during that time 
+What team has most concussed players?: 
+The Browns had the highest number of concussions 2012-2014. The Bills had the lowest number of concussions during that time 
 
-What time of the season?: Most concussions are in first week of season. Second highest is week 12. Lowest in last three weeks (probably because of playoffs) 
+What time of the season?: 
+Most concussions are in first week of season. Second highest is week 12. Lowest in last three weeks (probably because of playoffs) 
 
-If you've been concussed once, are you more likely to get another within the next two seasons?: There is a percentage that following one concussion, there is a likelihood you will get more. 
+If you've been concussed once, are you more likely to get another within the next two seasons?: 
+There is a small percentage that following one concussions, a player could get another one (12.31%)​
 
-Are certain positions more susceptible to concussions?: Cornerbacks receive the most, seemly because they must tackle hard and aggressively with the role of their position on the field. Wide receiver receives the 2nd most concussions, based on the conclusion that they receive the ball and get tackle and cannot brace themselves unlike other positions 
+Are certain positions more susceptible to concussions?: 
+Cornerbacks receive the most, seemly because they must tackle hard and aggressively with the role of their position on the field. Wide receiver receives the 2nd most concussions, based on the conclusion that they receive the ball and get tackle and cannot brace themselves unlike other positions 
 
-Does the winning team or losing team typically get injured more often?: 
+Does the winning team or losing team typically get injured more often?:  
+The loosing team typically experiences more concussions than the winning team, but only by a very small margin, so we do not think that this is significant enough for our research on what factor influences concussions the most.  
 
  
 
