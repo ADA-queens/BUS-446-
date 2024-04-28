@@ -1,4 +1,4 @@
-Objectives: 
+Objectives:  
 Using NFL concussion data sets to gain knowledge on what factors lead to more frequent concussions in order to help prevent them. 
 
 Methodology: 
