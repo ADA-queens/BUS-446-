@@ -28,16 +28,21 @@ The loosing team typically experiences more concussions than the winning team, b
 Insight/Recommendations: 
 
 What team has most concussed players?: 
+
 With this data, the Browns could do research on the Bills to try and improve their concussion prevention protocols.  
 
 What time of the season?: 
+
 Teams should do more concussion prevention in preseason and beginning of regular season.  
 
 If you've been concussed once, are you more likely to get another within the next two seasons?: 
+
 NFL should do preventative care in general, and even more for those impacted multiple times, as well as extra protective gear. They should also have a cap on the number of concussions in a season and withhold players based on too many 
 
 Are certain positions more susceptible to concussions?: 
+
 Our recommendations is the positions with the most concussions like those wear more padding specific to how they will be hit and can product them better. 
 
 Does the winning team or losing team typically get injured more often?:  
+
 Based on this data, there doesn’t seem to be any significant difference between winning or losing in terms of concussions, so we have no recommendations. 
